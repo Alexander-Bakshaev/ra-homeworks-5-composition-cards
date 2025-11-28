@@ -1,6 +1,7 @@
 # Карточки
 
-[![Vercel Deploy](https://img.shields.io/badge/demo-live-success?style=flat&logo=vercel)](https://your-deployment-url.vercel.app)
+[![Vercel Deploy](https://img.shields.io/github/deployments/your-username/ra-homeworks-5-composition-cards/production?label=vercel&logo=vercel)](https://vercel.com/your-username/ra-homeworks-5-composition-cards)
+[![Live Demo](https://img.shields.io/badge/demo-live-success?style=flat&logo=vercel)](https://ra-homeworks-5-composition-cards-dnd5fbgm8.vercel.app)
 
 Компонент карточек с возможностью отображения различного контента и изображений.
 
